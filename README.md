@@ -3,7 +3,7 @@
 
 El cifrado César es un algoritmo de cifrado simple  funciona desplazando cada letra del mensaje un número fijo de posiciones hacia la derecha en el alfabeto. El nombre del cifrado proviene de Julio César, quien lo utilizaba para proteger comunicaciones militares.
 
-Para enetnder como funciona el cifrado podemos seguuir los siguientes pasos:
+Para entender como funciona el cifrado podemos seguir los siguientes pasos:
 
 1.- Necesitamos determinar el numero de posiciones que se desplazara cada letra. 
 
